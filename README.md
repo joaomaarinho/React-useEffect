@@ -1,3 +1,11 @@
+# React - The Complete Guide course by Maximilian Schwarzmüller
+
+This repository is referencing to the course's section 10: 
+
+Advanced: Handling Side Effects, Using Reducers and Using the Context API
+
+![App Running](./section10.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
